@@ -202,6 +202,14 @@
         "town": "Sampa.JS"
     },
     {
+        "continent": "Conference",
+        "country": "Brazil",
+        "lat": -8.064923,
+        "link": "http://www.pernambucojs.com/",
+        "lng": -34.874253,
+        "town": "Pernambuco.JS"
+    },
+    {
         "continent": "Europe",
         "country": "Sweden",
         "lat": 59.332788,
