@@ -1037,5 +1037,13 @@
         "link": "http://www.jsgeneve.com",
         "lng": 6.1336922,
         "town": "Geneva"
+    },
+    {
+        "continent": "Europe",
+        "country": "UK",
+        "lat": 51.751944,
+        "link": "https://twitter.com/JSOxford",
+        "lng": -1.257778,
+        "town": "Oxford"
     }
 ]
