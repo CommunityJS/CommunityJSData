@@ -1,7 +1,7 @@
 CommunityJSData
 ===============
 
-The actual data for CommunityJS.org
+The actual data for [CommunityJS.org](http://CommunityJS.org)
 
 ## Quick start
 Only edit rawfile
@@ -24,4 +24,4 @@ Edit rawdata file
 
 Check your browser
 
-Make a pull request [https://help.github.com/articles/using-pull-requests]
+[Make a pull request](https://help.github.com/articles/using-pull-requests)
