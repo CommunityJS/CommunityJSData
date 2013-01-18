@@ -964,14 +964,6 @@
         "town": "Wellington"
     },
     {
-        "continent": "Conference",
-        "country": "Brazil",
-        "lat": -30.034808,
-        "link": "http://rsjs.org",
-        "lng": -51.238444,
-        "town": "Porto Alegre"
-    },
-    {
         "continent": "North America",
         "country": "USA",
         "lat": 33.37775,
