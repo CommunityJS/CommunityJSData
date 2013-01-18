@@ -89,6 +89,14 @@
         "town": "RSJS"
     },
     {
+        "continent": "Conference",
+        "country": "Brazil",
+        "lat": -19.928616,
+        "link": "http://beagajs.com.br",
+        "lng": -43.937205,
+        "town": "BeagaJS"
+    },
+    {
         "continent": "South America",
         "country": "Brazil",
         "lat": -23.5963,
@@ -962,14 +970,6 @@
         "link": "http://www.meetup.com/new-zealand-js/",
         "lng": 174.773235,
         "town": "Wellington"
-    },
-    {
-        "continent": "Conference",
-        "country": "Brazil",
-        "lat": -30.034808,
-        "link": "http://rsjs.org",
-        "lng": -51.238444,
-        "town": "Porto Alegre"
     },
     {
         "continent": "North America",
