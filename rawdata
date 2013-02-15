@@ -1,5 +1,13 @@
 [
     {
+        "continent": "South America",
+        "country": "Uruguay",
+        "lat": -34.89084,
+        "link": "http://www.meetup.com/mvd-js/",
+        "lng": -56.19466,
+        "town": "Montevideo"
+    },
+    {
         "continent": "Conference",
         "country": "France",
         "lat": 48.856614,
