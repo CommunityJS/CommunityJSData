@@ -1053,5 +1053,14 @@
         "link": "https://twitter.com/JSOxford",
         "lng": -1.257778,
         "town": "Oxford"
+    },
+    {
+        "continent": "North America",
+        "country": "USA",
+        "lat": 37.402935,
+        "link": "http://www.meetup.com/South-Bay-JavaScript-Everywhere/",
+        "lng": -122.049852,
+        "state": "California",
+        "town": "js.everywhere - Mountain View"
     }
 ]
