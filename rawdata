@@ -1062,5 +1062,14 @@
         "lng": -122.049852,
         "state": "California",
         "town": "js.everywhere - Mountain View"
+    },
+    {
+        "continent": "North America",
+        "country": "USA",
+        "lat": 36.166667,
+        "link": "http://nashjs.org/",
+        "lng": -86.783333,
+        "state": "Tennessee",
+        "town": "Nashville"
     }
 ]
