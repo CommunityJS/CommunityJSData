@@ -1071,5 +1071,13 @@
         "lng": -86.783333,
         "state": "Tennessee",
         "town": "Nashville"
+    },
+    {
+        "continent": "Asia",
+        "country": "Philippines",
+        "lat": 14.55509,
+        "link": "http://manilajs.com/",
+        "lng": 121.024704,
+        "town": "Metro Manila"
     }
 ]
