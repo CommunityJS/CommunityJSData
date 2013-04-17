@@ -1079,5 +1079,14 @@
         "link": "http://manilajs.com/",
         "lng": 121.024704,
         "town": "Metro Manila"
+    },
+    {
+        "continent": "North America",
+        "country": "USA",
+        "lat": 41.711384,
+        "link": "http://hartfordjs.com",
+        "lng": -72.664179,
+        "state": "Connecticut",
+        "town": "Hartford"
     }
 ]
