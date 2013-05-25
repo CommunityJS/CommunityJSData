@@ -1088,5 +1088,13 @@
         "lng": -72.664179,
         "state": "Connecticut",
         "town": "Hartford"
-    }
+    },
+    {
+        "continent": "Europe",
+        "country": "Czech Republic",
+        "lat": 50.0663553,
+        "link": "http://praguejs.cz",
+        "lng": 14.4027372,
+        "town": "Prague"
+    },
 ]
