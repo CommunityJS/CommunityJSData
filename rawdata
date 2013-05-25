@@ -557,6 +557,14 @@
     },
     {
         "continent": "Europe",
+        "country": "Czech Republic",
+        "lat": 50.0755381,
+        "link": "http://www.praguejs.cz",
+        "lng": 14.4378005,
+        "town": "Prague"
+    },    
+    {
+        "continent": "Europe",
         "country": "France",
         "lat": 48.856667,
         "link": "http://parisjs.org",
