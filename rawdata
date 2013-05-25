@@ -1097,4 +1097,12 @@
         "lng": 14.4027372,
         "town": "Prague"
     },
+    {
+        "continent": "Europe",
+        "country": "Czech Republic",
+        "lat": 50.0842689,
+        "link": "http://webexpo.cz",
+        "lng": 14.4411581,
+        "town": "Prague"
+    }
 ]
