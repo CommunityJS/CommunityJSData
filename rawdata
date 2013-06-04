@@ -1096,5 +1096,14 @@
         "lng": -72.664179,
         "state": "Connecticut",
         "town": "Hartford"
+    },
+    {
+        "continent": "North America",
+        "country": "USA",
+        "lat": 43.023939,
+        "link": "http://milwaukeejs.org",
+        "lng": -87.916643,
+        "state": "Wisconsin",
+        "town": "Milwuakee"
     }
 ]
