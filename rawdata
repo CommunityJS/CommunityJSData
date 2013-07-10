@@ -1,5 +1,13 @@
 [
     {
+      "continent": "Asia",
+      "country": "India",
+      "lat": 29.0167,
+      "link": "http://jschannel.com",
+      "lng": 77.3833,
+      "town": "New Delhi"
+    },
+    {
         "continent": "South America",
         "country": "Uruguay",
         "lat": -34.89084,
