@@ -570,7 +570,7 @@
         "link": "http://www.praguejs.cz",
         "lng": 14.4378005,
         "town": "Prague"
-    },    
+    },
     {
         "continent": "Europe",
         "country": "France",
@@ -1122,5 +1122,13 @@
         "lng": -98.493628,
         "state": "Texas",
         "town": "San Antonio"
+    },
+    {
+        "continent": "Europe",
+        "country": "Belarus",
+        "lat": 53.9,
+        "link": "http://lanyrd.com/series/rs/",
+        "lng": 27.5667,
+        "town": "Minsk"
     }
 ]
