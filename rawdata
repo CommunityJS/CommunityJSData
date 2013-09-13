@@ -8,6 +8,14 @@
       "town": "New Delhi"
     },
     {
+      "continent": "Asia",
+      "country": "India",
+      "lat": 12.9667,
+      "link": "http://bangalorejs.org",
+      "lng": 77.5667,
+      "town": "Bangalore"
+    },
+    {
         "continent": "South America",
         "country": "Uruguay",
         "lat": -34.89084,
