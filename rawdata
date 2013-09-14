@@ -1,5 +1,13 @@
 [
     {
+        "continent": "Conference",
+        "country": "India",
+        "lat": 12.891476,
+        "link": "http://jsfoo.in/",
+        "lng": 77.585079,
+        "town": "Bangalore"
+    },
+    {
       "continent": "Asia",
       "country": "India",
       "lat": 29.0167,
