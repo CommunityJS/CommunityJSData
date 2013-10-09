@@ -242,6 +242,14 @@
         "town": "Karlsruhe"
     },
     {
+        "continent": "Europe",
+        "country": "Germany",
+        "lat": 51.313876,
+        "link": "http://leipzigjs.github.io/",
+        "lng": 12.414551,
+        "town": "Leipzig"
+    },
+    {
         "continent": "Conference",
         "country": "Brazil",
         "lat": -23.59607,
