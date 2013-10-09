@@ -1162,5 +1162,14 @@
         "link": "http://lanyrd.com/series/rs/",
         "lng": 27.5667,
         "town": "Minsk"
+    },
+    {
+        "continent": "North America",
+        "country": "USA",
+        "lat": 45.0026,
+        "link": "http://www.meetup.com/NodeMN/",
+        "lng": -93.2488,
+        "state": "Minnesota",
+        "town": "Minneapolis"
     }
 ]
