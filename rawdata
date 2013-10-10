@@ -325,11 +325,11 @@
     {
         "continent": "Conference",
         "country": "USA",
-        "lat": -37.3338,
+        "lat": 37.81762,
         "link": "http://jseverywhere.org",
-        "lng": -121.8891,
-        "state": "CA",
-        "town": "San Jose"
+        "lng": -122.36998,
+        "state": "California",
+        "town": "JS.everywhere() US"
     },
     {
         "continent": "Africa",
