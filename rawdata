@@ -32,6 +32,14 @@
         "town": "Montevideo"
     },
     {
+        "continent": "South America",
+        "country": "Panama",
+        "lat": 9.002955380793665,
+        "link": "https://www.facebook.com/JsDevGroupPanama",
+        "lng": -79.58755347599421,
+        "town": "Panama"
+    },
+    {
         "continent": "Conference",
         "country": "France",
         "lat": 48.856614,
