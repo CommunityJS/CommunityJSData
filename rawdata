@@ -589,6 +589,15 @@
     {
         "continent": "North America",
         "country": "USA",
+        "lat": 36.850769,
+        "link": "http://norfolkjs.github.io/",
+        "lng": -76.285873,
+        "state": "Virginia",
+        "town": "Norfolk"
+    },
+    {
+        "continent": "North America",
+        "country": "USA",
         "lat": 38.908379,
         "link": "http://www.meetup.com/DC-jQuery-Users-Group",
         "lng": -77.031808,
