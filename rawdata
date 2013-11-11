@@ -1188,5 +1188,14 @@
         "lng": -93.2488,
         "state": "Minnesota",
         "town": "Minneapolis"
+    },
+    {
+        "continent": "Conference",
+        "country": "USA",
+        "lat": 40.761366,
+        "link": "http://mtnwestjsconf.org/",
+        "lng": -111.884251,
+        "town": "Salt Lake City",
+        "state": "Utah"
     }
 ]
