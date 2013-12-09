@@ -1197,5 +1197,14 @@
         "lng": -111.884251,
         "town": "Salt Lake City",
         "state": "Utah"
+    },
+    {
+        "continent": "Africa",
+        "country": "Kenya",
+        "lat": -1.298747,
+        "link": "https://groups.google.com/forum/#!forum/nairobi-js",
+        "lng": 36.790928,
+        "town": "Nairobi",
+        "state": "Kenya"
     }
 ]
