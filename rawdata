@@ -1206,5 +1206,14 @@
         "lng": 36.790928,
         "town": "Nairobi",
         "state": "Kenya"
+    },
+    {
+        "continent": "North America",
+        "country": "USA",
+        "lat": 34.8444,
+        "link": "http://greenvillejs.org/",
+        "lng": -82.3856,
+        "state": "South Carolina",
+        "town": "Greenville"
     }
 ]
