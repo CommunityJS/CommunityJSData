@@ -1,4 +1,12 @@
-[
+[ 
+    {
+        "continent": "Europe",
+        "country": "Italy",
+        "lat": 45.469488,
+        "link": "http://milanojs.com",
+        "lng": 9.175369,
+        "town": "Milan"
+    },
     {
         "continent": "Conference",
         "country": "India",
