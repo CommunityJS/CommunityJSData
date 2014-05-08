@@ -1,4 +1,4 @@
-[ 
+rawdata = [ 
     {
         "continent": "Europe",
         "country": "Italy",
@@ -965,27 +965,6 @@
         "link": "https://groups.google.com/group/romajs",
         "lng": 12.49425,
         "town": "Roma"
-    },
-    {
-        "language": "java",
-        "views": {
-            "index": {
-                "map": {
-                    "classname": "com.cloudant.indexers.CustomSearch",
-                    "configure": {
-                        "fields": [
-                            {
-                                "lucenename": "all",
-                                "name": ".*",
-                                "regexp": true,
-                                "type": "string"
-                            }
-                        ]
-                    }
-                },
-                "reduce": "_count"
-            }
-        }
     },
     {
         "continent": "South America",
