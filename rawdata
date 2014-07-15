@@ -1202,5 +1202,14 @@ rawdata = [
         "lng": -57.954444,
         "state": "Buenos Aires",
         "town": "La Plata"
+    },
+    {
+        "continent": "Asia",
+        "country": "Indonesia",
+        "lat": "-6.175125",
+        "link": "https://github.com/idjs",
+        "lng": "106.827158",
+        "state": "Jawa Barat",
+        "town": "Jakarta"
     }
 ]
