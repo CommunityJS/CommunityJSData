@@ -1211,5 +1211,13 @@ rawdata = [
         "lng": "106.827158",
         "state": "Jawa Barat",
         "town": "Jakarta"
+    },
+    {
+        "continent": "Europe",
+        "country": "Croatia",
+        "lat": 45.810388,
+        "link": "http://jszgb.com/",
+        "lng": 15.974249,
+        "town": "Zagreb"
     }
 ]
