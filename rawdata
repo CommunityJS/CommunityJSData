@@ -1211,5 +1211,15 @@ rawdata = [
         "lng": "106.827158",
         "state": "Jawa Barat",
         "town": "Jakarta"
+    },
+    {
+        "continent": "North America",
+        "country": "USA",
+        "lat": 42.2814,
+        "link": "http://semjs.org",
+        "lng": -83.7483,
+        "state": "Michigan",
+        "town": "Ann Arbor"
     }
+    
 ]
