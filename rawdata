@@ -1220,6 +1220,14 @@ rawdata = [
         "lng": -83.7483,
         "state": "Michigan",
         "town": "Ann Arbor"
+    },
+    {
+        "continent": "Europe",
+        "country": "Croatia",
+        "lat": 45.810388,
+        "link": "http://jszgb.com/",
+        "lng": 15.974249,
+        "town": "Zagreb"
     }
     
 ]
