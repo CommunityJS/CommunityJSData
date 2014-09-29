@@ -1228,6 +1228,69 @@ rawdata = [
         "link": "http://jszgb.com/",
         "lng": 15.974249,
         "town": "Zagreb"
+    },
+    {
+        "continent": "Europe",
+        "country": "Poland",
+        "lat": 52.406374,
+        "link": "http://meetjs.pl",
+        "lng": 16.925168,
+        "town": "Poznan"
+    },
+    {
+        "continent": "Europe",
+        "country": "Poland",
+        "lat": 52.229676,
+        "link": "http://meetjs.pl",
+        "lng": 21.012229,
+        "town": "Warsaw"
+    },
+    {
+        "continent": "Europe",
+        "country": "Poland",
+        "lat": 54.352025,
+        "link": "http://meetjs.pl",
+        "lng": 18.646638,
+        "town": "Gdansk"
+    },
+    {
+        "continent": "Europe",
+        "country": "Poland",
+        "lat": 50.064650,
+        "link": "http://meetjs.pl",
+        "lng": 19.944980,
+        "town": "Krakow"
+    },
+    {
+        "continent": "Europe",
+        "country": "Poland",
+        "lat": 51.759248,
+        "link": "http://meetjs.pl",
+        "lng": 19.455983,
+        "town": "Lodz"
+    },
+    {
+        "continent": "Europe",
+        "country": "Poland",
+        "lat": 51.107885,
+        "link": "http://meetjs.pl",
+        "lng": 17.038538,
+        "town": "Wroclaw"
+    },
+    {
+        "continent": "Europe",
+        "country": "Poland",
+        "lat": 50.264892,
+        "link": "http://meetjs.pl",
+        "lng": 19.023782,
+        "town": "Katowice"
+    },
+    {
+        "continent": "Europe",
+        "country": "Poland",
+        "lat": 53.428544,
+        "link": "http://meetjs.pl",
+        "lng": 14.552812,
+        "town": "Szczecin"
     }
-    
 ]
