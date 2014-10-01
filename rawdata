@@ -1236,6 +1236,13 @@ rawdata = [
         "link": "http://jszgb.com/",
         "lng": 15.974249,
         "town": "Zagreb"
+    },
+    {
+        "continent": "Europe",
+        "country": "Germany",
+        "lat": 49.452949,
+        "link": "http://frankenjs.org/",
+        "lng": 11.078939,
+        "town": "Nürnberg"
     }
-    
 ]
