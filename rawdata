@@ -1301,6 +1301,7 @@ rawdata = [
         "lng": 14.552812,
         "town": "Szczecin"
     },
+    {
         "continent": "Europe",
         "country": "Germany",
         "lat": 49.452949,
