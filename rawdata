@@ -686,6 +686,14 @@ rawdata = [
     },
     {
         "continent": "Europe",
+        "country": "Hungary",
+        "lat": 47.498406,
+        "link": "http://www.meetup.com/nodebp",
+        "lng": 19.040758,
+        "town": "Budapest"
+    },
+    {
+        "continent": "Europe",
         "country": "Netherlands",
         "lat": 52.373056,
         "link": "http://twitter.com/amsterdamjs",
@@ -1292,5 +1300,12 @@ rawdata = [
         "link": "http://meetjs.pl",
         "lng": 14.552812,
         "town": "Szczecin"
+    },
+        "continent": "Europe",
+        "country": "Germany",
+        "lat": 49.452949,
+        "link": "http://frankenjs.org/",
+        "lng": 11.078939,
+        "town": "Nürnberg"
     }
 ]
