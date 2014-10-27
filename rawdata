@@ -639,9 +639,9 @@ rawdata = [
     {
         "continent": "Europe",
         "country": "Germany",
-        "lat": 51.151786,
+        "lat": 50.931121,
         "link": "http://colognejs.de",
-        "lng": 10.415039,
+        "lng": 6.935169,
         "town": "Cologne"
     },
     {
