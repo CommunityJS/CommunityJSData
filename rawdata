@@ -1244,5 +1244,13 @@ rawdata = [
         "link": "http://frankenjs.org/",
         "lng": 11.078939,
         "town": "Nürnberg"
+    },
+    {
+        "continent": "Europe",
+        "country": "Germany",
+        "lat": 51.85312,
+        "link": "http://www.meetup.com/OWL-JS",
+        "lng": 8.29146,
+        "town": "Rheda-Wiedenbrück"
     }
 ]
