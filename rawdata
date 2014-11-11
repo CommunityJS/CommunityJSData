@@ -477,6 +477,13 @@ rawdata = [
         "state": "Massachusetts",
         "town": "Boston"
     },
+    {   "continent": "North America",
+        "country": "USA",
+        "lat": "32.285697",
+        "long" : "-90.184275",
+        "state": "Mississippi",
+        "town": "Jackson"
+    },
     {
         "continent": "North America",
         "country": "USA",
