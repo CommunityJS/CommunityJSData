@@ -1,4 +1,4 @@
-rawdata = [ 
+rawdata = [
     {
         "continent": "Europe",
         "country": "Italy",
@@ -1219,6 +1219,15 @@ rawdata = [
         "lng": "106.827158",
         "state": "Jawa Barat",
         "town": "Jakarta"
+    },
+    {
+        "continent": "Asia",
+        "country": "China",
+        "lat": "31.225493",
+        "link": "http://www.meetup.com/Shanghai-JavaScript-Meetup/",
+        "lng": "121.432203",
+        "state": "Shanghai",
+        "town": "Shanghai"
     },
     {
         "continent": "North America",
