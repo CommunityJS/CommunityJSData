@@ -1,6 +1,14 @@
 rawdata = [ 
     {
         "continent": "Europe",
+        "country": "Iceland",
+        "lat": 64.1333,
+        "link": "https://www.facebook.com/groups/nodejsis",
+        "lng": 21.9333,
+        "town": "Reykjavik"
+    },
+    {
+        "continent": "Europe",
         "country": "Italy",
         "lat": 45.469488,
         "link": "http://milanojs.com",
