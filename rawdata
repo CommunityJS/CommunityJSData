@@ -1252,5 +1252,14 @@ rawdata = [
         "link": "http://www.meetup.com/OWL-JS",
         "lng": 8.29146,
         "town": "Rheda-Wiedenbrück"
+    },
+	{
+        "continent": "North America",
+        "country": "USA",
+        "lat": 35.478527,
+        "link": "http://okcjs.com",
+        "lng": -97.519417,
+        "state": "Oklahoma",
+        "town": "Oklahoma City"
     }
 ]
