@@ -4,7 +4,7 @@ rawdata = [
         "country": "Iceland",
         "lat": 64.1333,
         "link": "https://www.facebook.com/groups/nodejsis",
-        "lng": 21.9333,
+        "lng": -21.9333,
         "town": "Reykjavik"
     },
     {
