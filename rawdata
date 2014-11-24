@@ -375,7 +375,7 @@ rawdata = [
         "continent": "Asia",
         "country": "Singapore",
         "lat": 1.301725,
-        "link": "meetup.com/Singapore-JS/",
+        "link": "http://meetup.com/Singapore-JS/",
         "lng": 103.859897,
         "town": "Singapore"
     },
