@@ -185,6 +185,14 @@ rawdata = [
         "town": "JSConf.EU"
     },
     {
+        "continent": "Conference",
+        "country": "Singapore",
+        "lat": 1.3,
+        "link": "http://jsconf.asia/",
+        "lng": 103.8,
+        "town": "JSConf.Asia"
+    },
+    {
         "continent": "South America",
         "country": "Brazil",
         "lat": -8.064923,
@@ -367,7 +375,7 @@ rawdata = [
         "continent": "Asia",
         "country": "Singapore",
         "lat": 1.301725,
-        "link": "http://www.beermatesjs.com/",
+        "link": "http://meetup.com/Singapore-JS/",
         "lng": 103.859897,
         "town": "Singapore"
     },
