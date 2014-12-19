@@ -245,7 +245,7 @@ rawdata = [
         "continent": "Europe",
         "country": "France",
         "lat": 43.60465,
-        "link": "http://www.toulousejs.org/",
+        "link": "http://toulousejs.francejs.org",
         "lng": 1.44421,
         "town": "Toulouse"
     },
