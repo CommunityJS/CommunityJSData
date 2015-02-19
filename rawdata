@@ -735,6 +735,14 @@ rawdata = [
     },
     {
         "continent": "Europe",
+        "country": "Netherlands",
+        "lat": 53.221705,
+        "link": "http://www.meetup.com/GrunnJS/",
+        "lng": 6.564752,
+        "town": "Groningen"
+    },
+    {
+        "continent": "Europe",
         "country": "Sweden",
         "lat": 57.696994,
         "link": "http://twitter.com/got_js",
