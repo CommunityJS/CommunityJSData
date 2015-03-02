@@ -130,6 +130,14 @@ rawdata = [
     },
     {
         "continent": "Europe",
+        "country": "Russia",
+        "lat": 55.016,
+        "link": "https://twitter.com/JSibNsk",
+        "lng": 82.933,
+        "town": "Novosibirsk"
+    },
+    {
+        "continent": "Europe",
         "country": "Germany",
         "lat": 48.7821,
         "link": "http://twitter.com/stuttgartjs",
