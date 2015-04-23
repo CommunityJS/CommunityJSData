@@ -1289,6 +1289,14 @@ rawdata = [
     },
     {
         "continent": "Europe",
+        "country": "Slovenia",
+        "lat": 46.0556,
+        "link": "http://www.meetup.com/Ljubljana-JavaScript-User-Group/",
+        "lng": 14.5083,
+        "town": "Ljubljana"
+    },
+    {
+        "continent": "Europe",
         "country": "Germany",
         "lat": 49.452949,
         "link": "http://frankenjs.org/",
