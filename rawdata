@@ -1303,6 +1303,14 @@ rawdata = [
         "lng": 8.29146,
         "town": "Rheda-Wiedenbrück"
     },
+     {
+        "continent": "Europe",
+        "country": "Romania",
+        "lat": 46.777248,
+        "link": "http://www.meetup.com/JavaScript-Cluj/",
+        "lng": 23.599889,
+        "town": "Cluj-Napoca"
+    },
 	{
         "continent": "North America",
         "country": "USA",
