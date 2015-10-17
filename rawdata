@@ -1319,5 +1319,14 @@ rawdata = [
         "lng": -97.519417,
         "state": "Oklahoma",
         "town": "Oklahoma City"
+    },
+    {
+        "continent": "North America",
+        "country": "USA",
+        "lat": 38.2524573,
+        "link": "http://jslou.org",
+        "lng": -85.7420696,
+        "state": "Kentucky",
+        "town": "Louisville"
     }
 ]
