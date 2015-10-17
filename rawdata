@@ -32,20 +32,20 @@ rawdata = [
         "town": "Bangalore"
     },
     {
-      "continent": "Asia",
-      "country": "India",
-      "lat": 29.0167,
-      "link": "http://jschannel.com",
-      "lng": 77.3833,
-      "town": "New Delhi"
+        "continent": "Asia",
+        "country": "India",
+        "lat": 29.0167,
+        "link": "http://jschannel.com",
+        "lng": 77.3833,
+        "town": "New Delhi"
     },
     {
-      "continent": "Asia",
-      "country": "India",
-      "lat": 12.9667,
-      "link": "http://bangalorejs.org",
-      "lng": 77.5667,
-      "town": "Bangalore"
+        "continent": "Asia",
+        "country": "India",
+        "lat": 12.9667,
+        "link": "http://bangalorejs.org",
+        "lng": 77.5667,
+        "town": "Bangalore"
     },
     {
         "continent": "South America",
@@ -803,7 +803,7 @@ rawdata = [
         "lat": -5.498398,
         "link": "http://groups.google.com/group/cearajs",
         "lng": -39.320624,
-        "town": "Cear\u00e1"
+        "town": "Ceará"
     },
     {
         "continent": "Conference",
@@ -904,7 +904,7 @@ rawdata = [
         "lat": 55.6033306,
         "link": "http://www.meetup.com/The-Oresund-JavaScript-Meetup/",
         "lng": 13.0013029,
-        "town": "Malm\u00f6"
+        "town": "Malmö"
     },
     {
         "continent": "North America",
@@ -930,7 +930,7 @@ rawdata = [
         "lat": 55.6033306,
         "link": "http://www.meetup.com/The-Oresund-ExtJS-Meetup/",
         "lng": 13.0013029,
-        "town": "Malm\u00f6"
+        "town": "Malmö"
     },
     {
         "continent": "Europe",
@@ -1021,7 +1021,7 @@ rawdata = [
         "lat": -20.263007,
         "link": "https://www.facebook.com/groups/esdevs/",
         "lng": -40.263401,
-        "town": "Esp\u00edrito Santo"
+        "town": "Espírito Santo"
     },
     {
         "continent": "Oceania",
@@ -1062,7 +1062,7 @@ rawdata = [
         "lat": 4.598199,
         "link": "http://twitter.com/#!/BogotaJS",
         "lng": -74.074759,
-        "town": "Bogot\u00e1"
+        "town": "Bogotá"
     },
     {
         "continent": "Europe",
@@ -1303,7 +1303,7 @@ rawdata = [
         "lng": 8.29146,
         "town": "Rheda-Wiedenbrück"
     },
-     {
+    {
         "continent": "Europe",
         "country": "Romania",
         "lat": 46.777248,
@@ -1311,7 +1311,7 @@ rawdata = [
         "lng": 23.599889,
         "town": "Cluj-Napoca"
     },
-	{
+    {
         "continent": "North America",
         "country": "USA",
         "lat": 35.478527,
@@ -1319,15 +1319,14 @@ rawdata = [
         "lng": -97.519417,
         "state": "Oklahoma",
         "town": "Oklahoma City"
-    
     },
     {
-    	"continent": "North America",
-	"country": "USA",
-	"lat" : 38.2524573,
-	"link": "http://jslou.org",
-	"lng": -85.7420696,
-	"state": "Kentucky",
-	"town": "Louisville"
-   }
+        "continent": "North America",
+        "country": "USA",
+        "lat": 38.2524573,
+        "link": "http://jslou.org",
+        "lng": -85.7420696,
+        "state": "Kentucky",
+        "town": "Louisville"
+    }
 ]
