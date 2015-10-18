@@ -2,9 +2,9 @@ rawdata = [
     {
         "continent": "Europe",
         "country": "Poland",
-        "lat": 52.25196425,
+        "lat": 52.252809,
         "link": "https://www.facebook.com/warsawjs",
-        "lng": 20.9976245490517,
+        "lng": 20.997650,
         "town": "Warsaw"
     },
     {
