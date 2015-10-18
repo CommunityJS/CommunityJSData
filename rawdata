@@ -1,5 +1,13 @@
 rawdata = [
     {
+        "continent": "Africa",
+        "country": "Morocco",
+        "lat": 33.533333,
+        "link": "https://moroccojs.org",
+        "lng": -7.583333,
+        "town": "Casablanca"
+    },
+    {
         "continent": "Europe",
         "country": "Poland",
         "lat": 52.252809,
