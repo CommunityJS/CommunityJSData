@@ -1343,5 +1343,13 @@ rawdata = [
         "lng": -97.519417,
         "state": "Oklahoma",
         "town": "Oklahoma City"
+    },
+    {
+        "continent": "Europe",
+        "country": "France",
+        "lat": 48.111980,
+        "link": "http://rennesjs.org",
+        "lng": -1.674290,
+        "town": "Rennes"
     }
 ]
