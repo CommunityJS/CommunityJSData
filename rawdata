@@ -968,7 +968,7 @@ rawdata = [
         "continent": "Europe",
         "country": "Greece",
         "lat": 37.984528,
-        "link": "http://greecejs.posterous.com/",
+        "link": "http://greecejs.org",
         "lng": 23.716736,
         "town": "Athens"
     },
