@@ -440,6 +440,15 @@ rawdata = [
         "continent": "North America",
         "country": "USA",
         "lat": 34.052234,
+        "link": "http://js.la",
+        "lng": -118.243685,
+        "state": "California",
+        "town": "Los Angeles"
+    },
+    {
+        "continent": "North America",
+        "country": "USA",
+        "lat": 34.052234,
         "link": "http://socaljs.com",
         "lng": -118.243685,
         "state": "California",
