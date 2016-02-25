@@ -448,15 +448,6 @@ rawdata = [
     {
         "continent": "North America",
         "country": "USA",
-        "lat": 34.052234,
-        "link": "http://socaljs.com",
-        "lng": -118.243685,
-        "state": "California",
-        "town": "Los Angeles"
-    },
-    {
-        "continent": "North America",
-        "country": "USA",
         "lat": 37.386052,
         "link": "http://www.meetup.com/javascript-9",
         "lng": -122.083851,
